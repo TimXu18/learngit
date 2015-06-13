@@ -6,3 +6,6 @@ Creating a new branch is quick and simple.
 branch merge test.
 
 brancg bug test.
+
+
+add coding: utf-8
